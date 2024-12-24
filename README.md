@@ -12,6 +12,20 @@ This project analyzes Airbnb listings data for six cities: **Melbourne**, **Aust
 
 The goal is to uncover valuable insights for renters and property managers, highlighting trends and anomalies in the rental data.
 
+##### Geographic map with price-based color scales for cities:
+![Geographic map with price-based color scales for cities.](media/Figure_1.png)
+
+
+##### Distribution of rental prices (hisogram):
+![Distribution of rental prices.](media/Figure_2.png)
+
+
+##### Distribution of price by minimum stay:
+![Distribution of price by minimum stay.](media/Figure_3.png)
+
+##### Terminal Output:
+![Terminal Output.](media/Figure_4.png)
+
 #### Dependencies:
 The project requires the following Python libraries:
 
