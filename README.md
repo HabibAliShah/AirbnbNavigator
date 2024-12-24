@@ -40,7 +40,7 @@ The project requires the following Python libraries:
 
 #### 1. Clone the Repository:
 ```
-git clone  https://github.com/HabibAliShah/AirbnbNavigator.git
+git clone https://github.com/HabibAliShah/AirbnbNavigator.git
 ```
 
 ```
